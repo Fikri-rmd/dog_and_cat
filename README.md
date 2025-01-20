@@ -1,5 +1,5 @@
 ﻿# dog_and_cat
-#Library yang Perlu Diinstal :
+Library yang Perlu Diinstal :
 •	Flask - Untuk membangun aplikasi web.
 •	TensorFlow - Untuk memuat dan menjalankan model machine learning.
 •	Werkzeug - Dependency dari Flask, biasanya sudah terinstall otomatis dengan Flask.
